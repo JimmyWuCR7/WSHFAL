@@ -1,0 +1,8 @@
+Course Code: SFWR ENG 2XB3
+Team Member:
+	400120376, Xinyu Huang, Project leader, Designer, Programmer
+	400119501, Baosheng Chang, Log admin, Document admin, Designer, Programmer
+	400089540, Zonghei Wang, Tester, Programmer
+	400117248, Di Wu, Tester, Programmer
+	400131465, Yachen Wu, Researcher, Tester, Programmer
+The work being submitted by us is our group work. --April 14, 2019
